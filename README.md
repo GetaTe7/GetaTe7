@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Insurance Managment system<br><br>🌱 I’m currently learning React Query,Socket.io,Unit testing (Jest, Mocha)<br><br>👯 I’m looking to collaborate on Mern-stack projects<br><br>🤝 I’m looking for help with website&APP developers<br><br>👨‍💻 All of my projects are available at github.com/GetaTe7<br><br>📫 How to reach me getabalewtekalign7@gmail.com<br><br>⚡ Fun fact I’ve been coding for 1 year and still debugging like a detective 🕵️‍♂️
+I’m currently working in phenoxopia software solution on Moden and Proffesional Equb application<br><br>🌱 I’m currently learning React Query,Socket.io,Unit testing (Jest, Mocha)<br><br>👯 I’m looking to collaborate on Mern-stack projects<br><br>🤝 I’m looking for help with website&APP developers<br><br>👨‍💻 All of my projects are available at github.com/GetaTe7<br><br>📫 How to reach me getabalewtekalign7@gmail.com<br><br>⚡ Fun fact I’ve been coding for 1 year and still debugging like a detective 🕵️‍♂️
 
 
 ## 🌐 Socials:
